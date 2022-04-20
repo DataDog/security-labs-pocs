@@ -1,19 +1,18 @@
 Datadog Security Labs Research and Proof of Concept Code
 ===
   
-This repository contains information, exploits, scripts, etc, that Datadog has made public and it is located at https://github.com/Datadog/security-labs-pocs.
+This repository contains information, exploits, and scripts from Datadog Security Labs.
 
 
 ## Goal
 
-Provide proof of concept exploits and technical demos to help the community respond to threats.  Code from this repository might be used to:
+This repository aims at providing proof of concept exploits and technical demos to help the community respond to threats.  Code from this repository might be used to:
 
 * Improve Detections
-* Continue additional research on TTPs
+* Continue additional research on Tactics, Techniques and Procedures (TTPs)
 * Discover additional exploits
 
-## Directory of PoCs and their relevant CVEs
+## Proofs of Concept
 
-# License
-
-This code is licensed under the Apache-2 license unless explicitly specified. 
+- [Dirty Pipe Container Breakout](./proof-of-concept-exploits/dirtypipe-container-breakout/)
+- [Exploitation and Sample Vulnerable Application of the JWT Null Signature Vulnerability (CVE-2022-21449)](./proof-of-concept-exploits/jwt-null-signature-vulnerable-app)
