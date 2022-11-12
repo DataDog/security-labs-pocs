@@ -1,12 +1,12 @@
 Datadog Security Labs Research and Proof of Concept Code
 ===
 
-This repository contains information, exploits, and scripts from Datadog Security Labs.
+This repository contains information, exploits, malware samples, and scripts from Datadog Security Labs.
 
 
 ## Goal
 
-This repository aims at providing proof of concept exploits and technical demos to help the community respond to threats.  Code from this repository might be used to:
+This repository aims at providing proof of concept exploits, malware samples and technical demos to help the community respond to threats. Code from this repository might be used to:
 
 * Improve Detections
 * Continue additional research on Tactics, Techniques and Procedures (TTPs)
@@ -19,6 +19,10 @@ This repository aims at providing proof of concept exploits and technical demos 
 - [Spring Core RCE aka Spring4shell (CVE-2022-22965)](./proof-of-concept-exploits/spring4shell)
 - [Confluence CVE-2022-26134 OGNL Vulnerability](./proof-of-concept-exploits/confluence-cve-2022-26134)
 - [OpenSSL punycode Vulnerability (CVE-2022-3602)](./proof-of-concept-exploits/openssl-punycode-vulnerability)
+
+## Malware Samples
+
+- [Malicious PyPI packages](./malware-samples/pypi/) identified with [GuardDog](https://github.com/datadog/guarddog)
 
 ## Stay Tuned!
 
