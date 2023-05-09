@@ -19,10 +19,7 @@ This repository aims at providing proof of concept exploits, malware samples and
 - [Spring Core RCE aka Spring4shell (CVE-2022-22965)](./proof-of-concept-exploits/spring4shell)
 - [Confluence CVE-2022-26134 OGNL Vulnerability](./proof-of-concept-exploits/confluence-cve-2022-26134)
 - [OpenSSL punycode Vulnerability (CVE-2022-3602)](./proof-of-concept-exploits/openssl-punycode-vulnerability)
-
-## Malware Samples
-
-- [Malicious PyPI packages](./malware-samples/pypi/) identified with [GuardDog](https://github.com/datadog/guarddog)
+- [OverlayFS privilege escalation vulnerability CVE-2023-0386](./proof-of-concept-exploits/overlayfs-cve-2023-0386/)
 
 ## Stay Tuned!
 
