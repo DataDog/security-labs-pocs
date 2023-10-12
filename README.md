@@ -20,6 +20,7 @@ This repository aims at providing proof of concept exploits, malware samples and
 - [Confluence CVE-2022-26134 OGNL Vulnerability](./proof-of-concept-exploits/confluence-cve-2022-26134)
 - [OpenSSL punycode Vulnerability (CVE-2022-3602)](./proof-of-concept-exploits/openssl-punycode-vulnerability)
 - [OverlayFS privilege escalation vulnerability CVE-2023-0386](./proof-of-concept-exploits/overlayfs-cve-2023-0386/)
+- [Confluence CVE-2023-22515 vulnerability](./proof-of-concept-exploits/confluence-cve-2023-22515/)
 
 ## Stay Tuned!
 
